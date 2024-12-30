@@ -10,11 +10,7 @@ This is the frontend (backend [here](https://github.com/ajeecai/awesome-github-s
 
 Service running on a free aws account with limited quota: https://asgithub.com
 
-![image](https://github.com/user-attachments/assets/5b4bd4b4-678f-4fee-a616-7bf7ec7731b8)
-
-If you like to receive newsletters weekly by email, please click the button:
-
-![image](https://github.com/user-attachments/assets/a4ee5eb2-3f3e-45f1-988c-c3d1e8b17341)
+![asgithub](https://github.com/user-attachments/assets/f2063536-c7a8-48dc-b514-32ed298ff5de)
 
 ## motivation
 
